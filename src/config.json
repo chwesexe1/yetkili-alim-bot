@@ -1,12 +1,12 @@
 {
     "bot": {
-        "token": "MTEyMDQwNDIzODExMjEzNzIzNg.GsfvVv.Y5HvBVdIyZthiu813oQ3R8ZaYsbNWAUD5uYyWc"
+        "token": "bot token"
     },
     "owners": [
-        "761211974218154026"
+        "idniz"
     ],
     "system": {
         "everyone": true,
-        "log": "1120404497349480448"
+        "log": "log kanalının idsi"
     }
 }
