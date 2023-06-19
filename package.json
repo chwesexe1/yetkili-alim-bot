@@ -1,0 +1,17 @@
+{
+  "name": "yaba",
+  "version": "1.0.0",
+  "description": "Raven yetkili alım bot altyapısı.",
+  "main": "src/lourex.js",
+  "scripts": {
+    "start": "node ./src/lourex.js",
+    "dev": "node --yaba ./src/lourex.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.11.0"
+  }
+}
